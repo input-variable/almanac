@@ -1,2 +1,2 @@
 # almanac
-A modular NoSQL storage solution.
+A scalable Unix game server solution.
